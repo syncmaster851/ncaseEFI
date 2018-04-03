@@ -2,7 +2,7 @@
 
 ## Configuration
 
-GA-Z97N-WIFI ITX 2.0, 
+GA-Z97N-WIFI ITX 2.0
 ALC892 
 Dual LAN, Intel GBE with Driver
 Replaced WIFI
